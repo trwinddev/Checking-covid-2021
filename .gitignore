@@ -2,6 +2,9 @@
 
 # dependencies
 /node_modules
+/Nav.js
+/Nav.scss
+/Todo.js
 /.pnp
 .pnp.js
 
